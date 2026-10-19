@@ -1,0 +1,38 @@
+[
+  {
+    "title": "湖畔 · 洛丽塔",
+    "slug": "lolita-lake",
+    "description": "蓝白洛丽塔系列的户外自然光创作。黄昏湖畔、垂柳与城市天际线，用柔和光线与唯美氛围还原角色气质。",
+    "tags": ["洛丽塔", "户外", "自然光"],
+    "metrics": "正片 3 组",
+    "year": "2026",
+    "category": "户外人像",
+    "cover": "/photography/lolita/lolita-1.jpg",
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "title": "角色 · 双人",
+    "slug": "cos-duo",
+    "description": "双人角色互动系列。从室内日式餐饮店到户外楼梯与草坪，捕捉角色之间的张力与默契。",
+    "tags": ["双人", "互动", "场景"],
+    "metrics": "正片 3 组",
+    "year": "2026",
+    "category": "场景人像",
+    "cover": "/photography/duo/duo-1.jpg",
+    "featured": true,
+    "status": "published"
+  },
+  {
+    "title": "漫展 · 现场",
+    "slug": "anime-convention",
+    "description": "漫展与场馆现场的抓拍记录。魔法特效、格温主题、红黑系角色……在人来人往的现场留下高光瞬间。",
+    "tags": ["漫展", "场馆", "现场"],
+    "metrics": "现场 5 组",
+    "year": "2026",
+    "category": "漫展纪实",
+    "cover": "/photography/event/event-1.jpg",
+    "featured": true,
+    "status": "published"
+  }
+]

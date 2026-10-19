@@ -1,0 +1,37 @@
+{
+  "name": "create-gitfolio",
+  "version": "1.0.5",
+  "description": "Open-source portfolio CMS with a built-in admin panel. Markdown blog, project showcase, and full portfolio management — all from a browser UI. Changes auto-commit to GitHub and trigger a Vercel rebuild. No database, no server, no subscription.",
+  "type": "module",
+  "bin": {
+    "create-gitfolio": "index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "portfolio",
+    "developer-portfolio",
+    "cms",
+    "admin-panel",
+    "no-database",
+    "markdown-blog",
+    "vite",
+    "react",
+    "vercel",
+    "github",
+    "template"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Kishor Kumar Mahato",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberkishor/gitfolio.git",
+    "directory": "create-gitfolio"
+  },
+  "homepage": "https://github.com/cyberkishor/gitfolio#readme"
+}

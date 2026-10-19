@@ -1,0 +1,62 @@
+{
+  "siteName": "Just · Photography",
+  "defaultTheme": "dark",
+  "accentColor": "#38bdf8",
+  "siteUrl": "https://just-photo.vercel.app",
+  "siteDescription": "Cosplay / 二次元人像摄影师 Just 的作品集。专注角色写真、户外自然光与漫展现场创作，接受 Cosplay 约拍。",
+  "logo": "/logo.jpg",
+  "favicon": "/logo.jpg",
+  "ogImage": "/photography/hero.jpg",
+  "keywords": "Cosplay摄影, 人像摄影, 二次元, 约拍, 合肥摄影, cos委托, 漫展跟拍",
+  "googleAnalyticsId": "",
+  "ctaText": "约拍咨询",
+  "ctaHref": "/#contact",
+  "nav": [
+    {
+      "label": "关于",
+      "href": "/#about"
+    },
+    {
+      "label": "作品",
+      "href": "/projects"
+    },
+    {
+      "label": "可约拍摄",
+      "href": "/#services"
+    },
+    {
+      "label": "摄影手记",
+      "href": "/blog"
+    },
+    {
+      "label": "联系",
+      "href": "/#contact"
+    }
+  ],
+  "footer": {
+    "description": "Cosplay / 二次元人像摄影师，坐标合肥。用镜头还原角色，接受个人约拍、Cos 委托与漫展跟拍。",
+    "quickLinks": [
+      {
+        "label": "关于",
+        "href": "/#about"
+      },
+      {
+        "label": "作品",
+        "href": "/projects"
+      },
+      {
+        "label": "可约拍摄",
+        "href": "/#services"
+      },
+      {
+        "label": "摄影手记",
+        "href": "/blog"
+      },
+      {
+        "label": "联系",
+        "href": "/#contact"
+      }
+    ],
+    "copyrightText": "All rights reserved."
+  }
+}

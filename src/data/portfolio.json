@@ -1,0 +1,220 @@
+{
+  "personal": {
+    "name": "Just",
+    "title": "Cosplay · 人像摄影师",
+    "tagline": "用镜头捕捉角色与光影的故事",
+    "location": "合肥",
+    "email": "hello@just-photo.com",
+    "phone": "",
+    "website": "https://just-photo.vercel.app",
+    "avatar": "/logo.jpg",
+    "social": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    }
+  },
+  "hero": {
+    "headline": "每一帧，都是",
+    "highlightedText": "对角色的热爱",
+    "subheadline": "Cosplay / 二次元人像摄影师，专注于角色写真、户外与漫展现场创作。擅长用光影讲故事，让每个角色在镜头里鲜活起来。",
+    "primaryCta": "查看作品",
+    "secondaryCta": "关于我"
+  },
+  "about": {
+    "title": "About Just",
+    "subtitle": "Cosplay 与二次元人像摄影创作者",
+    "paragraphs": [
+      "我是 Just，一名 Cosplay 人像摄影师，坐标合肥。从第一次举起相机为朋友拍 cos 到现在，我一直在探索如何用镜头把角色从二次元「还原」到现实——保留原作的气质，又赋予其真实的情绪与光。",
+      "我偏爱自然光与黄昏的湖畔，也享受漫展现场的即兴与热闹。每一次拍摄，我都会先理解角色本身，再和 coser 一起找到最贴合的姿态与场景。",
+      "如果你有喜欢的角色，欢迎来和我一起，把 TA 拍成你想要的样子。"
+    ],
+    "stats": [
+      { "value": "50+", "label": "拍摄场次" },
+      { "value": "30+", "label": "合作 Coser" },
+      { "value": "100+", "label": "成片作品" },
+      { "value": "3+", "label": "拍摄年份" }
+    ]
+  },
+  "skills": {
+    "title": "器材与工作流",
+    "subtitle": "我的拍摄设备与后期流程",
+    "categories": [
+      {
+        "name": "相机机身",
+        "icon": "Camera",
+        "items": ["全画幅机身", "APS-C 备机", "高感光手持"]
+      },
+      {
+        "name": "镜头",
+        "icon": "Layers",
+        "items": ["85mm 定焦", "35mm 定焦", "24-70 变焦", "微距镜"]
+      },
+      {
+        "name": "灯光与附件",
+        "icon": "Zap",
+        "items": ["外拍灯", "反光板", "柔光箱", "色片 & 特效件"]
+      },
+      {
+        "name": "后期软件",
+        "icon": "PenTool",
+        "items": ["Lightroom", "Photoshop", "局部精修", "色调统一"]
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "我的拍摄流程",
+    "subtitle": "从想法到成片的完整过程",
+    "steps": [
+      {
+        "number": "01",
+        "title": "前期沟通",
+        "description": "了解角色设定、期望风格与预算，确定拍摄方向与时间地点。"
+      },
+      {
+        "number": "02",
+        "title": "服装道具",
+        "description": "协助确认服装、假发与道具状态，并规划场景与道具清单。"
+      },
+      {
+        "number": "03",
+        "title": "现场拍摄",
+        "description": "引导姿态与情绪，结合自然光或补光设备完成高质量抓拍。"
+      },
+      {
+        "number": "04",
+        "title": "后期修图",
+        "description": "统一色调、皮肤处理与氛围营造，保留真实质感的成片。"
+      },
+      {
+        "number": "05",
+        "title": "交付成片",
+        "description": "精选精修图按时交付，并附拍摄花絮与可发布版本。"
+      }
+    ]
+  },
+  "projects": {
+    "title": "作品集",
+    "subtitle": "精选 Cosplay 人像创作",
+    "items": [
+      {
+        "title": "湖畔 · 洛丽塔",
+        "slug": "lolita-lake",
+        "description": "蓝白洛丽塔系列的户外自然光创作。黄昏湖畔、垂柳与城市天际线，用柔和光线与唯美氛围还原角色气质。",
+        "tags": ["洛丽塔", "户外", "自然光"],
+        "metrics": "正片 3 组",
+        "year": "2026",
+        "category": "户外人像",
+        "cover": "/photography/lolita/lolita-1.jpg",
+        "featured": true,
+        "status": "published"
+      },
+      {
+        "title": "角色 · 双人",
+        "slug": "cos-duo",
+        "description": "双人角色互动系列。从室内日式餐饮店到户外楼梯与草坪，捕捉角色之间的张力与默契。",
+        "tags": ["双人", "互动", "场景"],
+        "metrics": "正片 3 组",
+        "year": "2026",
+        "category": "场景人像",
+        "cover": "/photography/duo/duo-1.jpg",
+        "featured": true,
+        "status": "published"
+      },
+      {
+        "title": "漫展 · 现场",
+        "slug": "anime-convention",
+        "description": "漫展与场馆现场的抓拍记录。魔法特效、格温主题、红黑系角色……在人来人往的现场留下高光瞬间。",
+        "tags": ["漫展", "场馆", "现场"],
+        "metrics": "现场 5 组",
+        "year": "2026",
+        "category": "漫展纪实",
+        "cover": "/photography/event/event-1.jpg",
+        "featured": true,
+        "status": "published"
+      }
+    ]
+  },
+  "services": {
+    "title": "可约拍摄",
+    "subtitle": "你可以在这里找到我",
+    "items": [
+      {
+        "icon": "Camera",
+        "title": "个人 / 双人约拍",
+        "description": "含正片 30+ 张精修，适合生日、纪念或纯粹想记录一次特别的自己。"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Cos 委托拍摄",
+        "description": "针对指定角色定制场景与后期，把 TA 还原成你想要的样子。"
+      },
+      {
+        "icon": "MapPin",
+        "title": "漫展跟拍",
+        "description": "漫展现场跟拍与花絮记录，帮你留下逛展与出片的高光时刻。"
+      },
+      {
+        "icon": "PenTool",
+        "title": "后期修图",
+        "description": "提供专业调色、皮肤精修与氛围合成的后期处理服务。"
+      },
+      {
+        "icon": "Heart",
+        "title": "妆造协作",
+        "description": "与妆娘 / 造型师协作，为角色还原提供场景与灯光支持。"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "长期合作",
+        "description": "欢迎社团、展台与创作者团队，洽谈长期拍摄合作。"
+      }
+    ]
+  },
+  "blog": {
+    "title": "摄影手记",
+    "subtitle": "关于角色还原与光影的一些想法",
+    "posts": [
+      {
+        "title": "我的拍摄风格：从理解角色开始",
+        "excerpt": "一次好的 cos 拍摄，往往不是从按快门开始，而是从理解角色开始。分享我拍每一组作品前会做的准备。",
+        "date": "2026-10-10",
+        "readTime": "5 min read",
+        "slug": "my-shooting-style",
+        "cover": "/photography/hero.jpg",
+        "featured": true,
+        "status": "published"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "合作 Coser 说",
+    "subtitle": "来自一次拍摄的肯定",
+    "items": [
+      {
+        "quote": "Just 很懂角色，会先跟我聊角色性格再决定怎么拍。成片比我预期的还要还原，氛围感拉满。",
+        "author": "匿名 Coser",
+        "role": "合作拍摄",
+        "avatar": ""
+      },
+      {
+        "quote": "拍摄过程很轻松，引导很到位，不尴尬。后期色调我很喜欢，原片质感也保留得很好。",
+        "author": "匿名 Coser",
+        "role": "湖畔系列",
+        "avatar": ""
+      },
+      {
+        "quote": "漫展现场那么乱，还能抓到这么多好看的角度，跟拍体验很棒。",
+        "author": "匿名 Coser",
+        "role": "漫展跟拍",
+        "avatar": ""
+      }
+    ]
+  },
+  "contact": {
+    "title": "约拍咨询",
+    "subtitle": "如果你喜欢我的风格，欢迎来聊一聊你想要的画面。",
+    "cta": "发送约拍咨询",
+    "availability": "当前接受 Cosplay 约拍"
+  }
+}
