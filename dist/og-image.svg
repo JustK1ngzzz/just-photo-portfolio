@@ -1,0 +1,89 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f0f" />
+      <stop offset="100%" style="stop-color:#1a1a2e" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1" />
+      <stop offset="100%" style="stop-color:#8b5cf6" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Subtle grid pattern -->
+  <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+    <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#ffffff08" stroke-width="1"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#grid)" />
+
+  <!-- Glow orb top right -->
+  <circle cx="1050" cy="100" r="200" fill="#6366f1" opacity="0.08" />
+  <!-- Glow orb bottom left -->
+  <circle cx="150" cy="530" r="160" fill="#8b5cf6" opacity="0.06" />
+
+  <!-- Left accent bar -->
+  <rect x="80" y="180" width="4" height="270" fill="url(#accent)" rx="2" />
+
+  <!-- Name -->
+  <text x="116" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="700" fill="#ffffff" letter-spacing="-1">Kishor Kumar</text>
+  <text x="116" y="348" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="700" fill="#ffffff" letter-spacing="-1">Mahato</text>
+
+  <!-- Title badge -->
+  <rect x="116" y="372" width="380" height="40" rx="8" fill="#6366f120" />
+  <rect x="116" y="372" width="380" height="40" rx="8" fill="none" stroke="#6366f140" stroke-width="1" />
+  <text x="136" y="398" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="500" fill="#a5b4fc">Senior Full-Stack Developer</text>
+
+  <!-- Tagline -->
+  <text x="116" y="450" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#94a3b8" letter-spacing="0.2">Building products that solve real problems</text>
+
+  <!-- Tech stack pills -->
+  <rect x="116" y="478" width="100" height="30" rx="6" fill="#ffffff0a" />
+  <text x="166" y="498" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Shopify</text>
+
+  <rect x="226" y="478" width="90" height="30" rx="6" fill="#ffffff0a" />
+  <text x="271" y="498" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">React</text>
+
+  <rect x="326" y="478" width="90" height="30" rx="6" fill="#ffffff0a" />
+  <text x="371" y="498" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Laravel</text>
+
+  <rect x="426" y="478" width="90" height="30" rx="6" fill="#ffffff0a" />
+  <text x="471" y="498" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Django</text>
+
+  <rect x="526" y="478" width="90" height="30" rx="6" fill="#ffffff0a" />
+  <text x="571" y="498" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Next.js</text>
+
+  <!-- Right side: decorative code block -->
+  <rect x="760" y="160" width="360" height="300" rx="12" fill="#ffffff05" stroke="#ffffff10" stroke-width="1" />
+  <!-- Code window dots -->
+  <circle cx="790" cy="186" r="6" fill="#ff5f57" />
+  <circle cx="810" cy="186" r="6" fill="#ffbd2e" />
+  <circle cx="830" cy="186" r="6" fill="#28ca41" />
+  <!-- Code lines -->
+  <rect x="780" y="210" width="120" height="8" rx="4" fill="#6366f160" />
+  <rect x="780" y="230" width="200" height="8" rx="4" fill="#ffffff20" />
+  <rect x="800" y="250" width="160" height="8" rx="4" fill="#8b5cf660" />
+  <rect x="800" y="270" width="180" height="8" rx="4" fill="#ffffff15" />
+  <rect x="800" y="290" width="140" height="8" rx="4" fill="#6366f140" />
+  <rect x="780" y="310" width="100" height="8" rx="4" fill="#ffffff20" />
+  <rect x="780" y="330" width="220" height="8" rx="4" fill="#8b5cf640" />
+  <rect x="800" y="350" width="170" height="8" rx="4" fill="#ffffff15" />
+  <rect x="800" y="370" width="130" height="8" rx="4" fill="#6366f160" />
+  <rect x="780" y="390" width="190" height="8" rx="4" fill="#ffffff20" />
+  <rect x="780" y="410" width="80" height="8" rx="4" fill="#8b5cf660" />
+
+  <!-- Website URL -->
+  <text x="116" y="576" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#475569">kishorkumarmahato.com.np</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="620" width="1200" height="3" fill="url(#accent)" />
+</svg>
